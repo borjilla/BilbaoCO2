@@ -5,7 +5,7 @@ Data capture with ESP32 Oled, CO2-MHZ19 sensor and DHT11 sensor. Data in ThingSp
 
 - IDE Arduino: ESP32 Dev Module
 
-- CO2 sensor: MH-Z19C
+- CO2 sensor: MH-Z19
 
 - Temperature and humidity sensor: DHT11
 
@@ -18,7 +18,7 @@ Captación de datos mediante la placa ESP32 Oled. Los datos son subidos a la nub
 
 - IDE Arduino: ESP32 Dev Module
 
-- Sensor de CO2: MH-Z19C
+- Sensor de CO2: MH-Z19
 
 - Sensor de temperatura y humedad: DHT11
 
