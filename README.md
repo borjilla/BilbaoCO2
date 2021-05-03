@@ -12,7 +12,7 @@ Data capture with ESP32 Oled, CO2-MHZ19 sensor and DHT11 sensor. Data in ThingSp
 - OLED screen: Integrated on the board
 
 ____
-Captación de datos mediante la placa ESP32 Oled. Los datos son subidos a la nube (ThingSpeak).
+Captación de datos mediante la placa ESP32 Oled. Los datos son subidos a la nube. https://thingspeak.com/channels/609970
 
 - Placa  ESP32-OLED/Wemos ESP32 OLED
 
