@@ -31,7 +31,7 @@ Captación de datos mediante la placa ESP32 Oled. Los datos son subidos a la nub
 
 # Programación
  
-![116931097-e1cbcd80-ac60-11eb-9eca-0dd9429359a7](https://user-images.githubusercontent.com/47045714/116933089-5acc2480-ac63-11eb-8d2b-8349b548e323.png)
+![116931097-e1cbcd80-ac60-11eb-9eca-0dd9429359a7](https://user-images.githubusercontent.com/47045714/116933183-7cc5a700-ac63-11eb-9284-b61920e72dbf.png)
 
 # LINK
 https://thingspeak.com/channels/609970
