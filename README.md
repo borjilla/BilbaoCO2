@@ -37,6 +37,9 @@ Captación de datos mediante la placa ESP32 Oled. Los datos son subidos a la nub
 
 ![Captura de pantalla 2021-05-03 a las 23 04 40](https://user-images.githubusercontent.com/47045714/116933561-feb5d000-ac63-11eb-8b13-0b8f40ad2a23.png)
 
+# Box 
+
+![WhatsApp Image 2021-05-18 at 18 45 00 (2)](https://user-images.githubusercontent.com/47045714/118691557-7dd10980-b809-11eb-876f-a345982da192.jpeg)
 
 # LINK
 https://thingspeak.com/channels/609970
